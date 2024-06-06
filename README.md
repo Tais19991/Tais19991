@@ -3,7 +3,7 @@
 
 👀 **I’m interested in** Python, Data Analysis and Data Science. And also in biomedical research and biocomputing... but that's mostly a thing of the past.  
 
-🌱 **I’m currently** learning Data Analysis**  
+🌱 **I’m currently** learning Data Analysis  
  
 💞️ **I’m looking for** collaboration on data analysis and visualization =)  
 
