@@ -10,7 +10,7 @@
 📫 **How to reach me:**  
 `tania.akafeva@gmail.com`  
 or  
-`@tais9911` in Telegram
+`@tais9911` on Telegram
 
 
-⚡ **Fun/sad fact:** thanks to data, I received a master's degree in biology and worked for almost 10 years in science, but only now am I really starting to realize how big and amazing the world of data is...
+⚡ **Fun/sad fact:** Thanks to data, I received a master's degree in biology and worked for almost 10 years in science, but only now am I really starting to realize how big and amazing the world of data is...
