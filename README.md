@@ -3,7 +3,7 @@
 
 👀 **I’m interested in** Python, Data Analysis and Data Science
 
-🌱 **I’m currently** learning Data Analysis  
+🌱 **I’m currently** learning advanced ML techniques 
  
 💞️ **I’m looking for** collaboration on data analysis and visualization =)  
 
